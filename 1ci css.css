@@ -1,0 +1,37 @@
+ input{
+    margin: 15px 0px;
+    padding: 10px;
+}
+.qeydiyyat {
+    width: 100%;
+    width: 100%;
+}
+.register{
+    background:goldenrod;
+    padding:10px 30px;
+    color: #fff;
+    border-radius: 50px;
+}
+.register:hover{
+    background: green;
+}
+.register:active{
+    background:black;
+} 
+ul{
+    float: right;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: 20px;
+    list-style: none;
+}
+ul li{
+    float:left;
+    padding: 15px;
+}
+div{
+    height:80px;
+    color: bisque;
+    width:100%;
+    background: black;
+}
